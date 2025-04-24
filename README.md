@@ -12,7 +12,7 @@ Clone the repo:
 git clone https://github.com/richie48/random-type.git
 cd random-type
 ```
-Open index.html in your browser to play!
+Open localhost:5500 in your browser to play!
 
 📚 Inspired By
 Based on vanillawebprojects.com's typing game for learning and refreshers.
