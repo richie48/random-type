@@ -1,4 +1,4 @@
-# 🧠 RandomType
+# RandomType
 A simple web-based typing game to help improve speed and accuracy. Built without frameworks using pure HTML, CSS, and JavaScript for responsive and minimalist UI — perfect for learning and quick practice!   
 
 ### 🎯 Features
