@@ -15,5 +15,5 @@ cd random-type
 Open localhost:5500 in your browser to play!
 ![App Screenshot](./screenshot.png)
 
-📚 Inspired By
+📚 Inspired By   
 Based on vanillawebprojects.com's typing game for learning and refreshers.
