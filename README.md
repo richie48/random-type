@@ -1,4 +1,18 @@
-# random-type
-simple typing game built to help me recap how to design simple web project without framework. 
+# 🧠 RandomType
+A simple web-based typing game to help improve speed and accuracy. Built without frameworks using pure HTML, CSS, and JavaScript for responsive and minimalist UI — perfect for learning and quick practice!   
 
--If i need to recap again i can use it with the visuals https://vanillawebprojects.com/projects/typing-game/
+### 🎯 Features
+Random word generation   
+   
+Typing accuracy and speed tracking    
+   
+### 🚀 Getting Started
+Clone the repo:
+```
+git clone https://github.com/richie48/random-type.git
+cd random-type
+```
+Open index.html in your browser to play!
+
+📚 Inspired By
+Based on vanillawebprojects.com's typing game for learning and refreshers.
